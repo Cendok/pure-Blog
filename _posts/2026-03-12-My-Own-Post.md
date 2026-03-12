@@ -1,11 +1,11 @@
 ---
 layout: post
 title: My Own Post
-tags: test
-math: true
-date: 2026-03-12 15:32 +0800
+date: 2026-03-12 +0800
+last_modified_at: 2026-03-12 +0800
+tags: [Ownpost]
+toc:  true
 ---
-
 
 
 > 仅仅是测试
@@ -34,4 +34,5 @@ import matplotlib
 
 
 [我的站]([Cendok (算法工程师)](https://github.com/Cendok))
+
 

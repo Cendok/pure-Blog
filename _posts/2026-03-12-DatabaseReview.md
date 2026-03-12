@@ -9,6 +9,7 @@ toc:  true
 
 ### 数据库知识点
 
+
 ## 概念
 
 DB，database，数据库
@@ -277,10 +278,4 @@ HAVING子句用于对分组后的结果进行过滤，通常与GROUP BY子句一
    GROUP BY department
    HAVING COUNT(*) > 10;
    ```
-
-
-
-
-
-
-
+   

@@ -28,9 +28,10 @@ import matplotlib
 
 ![image-20260312113218133]([https://github.com/Cendok/Cendok.github.io/tree/master/avatar1.jpeg])
 
-
+![image](/avatar1.jpeg)  
 
 - ## 链接
 
 
 [我的站]([Cendok (算法工程师)](https://github.com/Cendok))
+

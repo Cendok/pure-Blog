@@ -26,10 +26,11 @@ import matplotlib
 
 - ## 图片
 
-![image-20260312113218133](C:\Users\曹鹏飞\AppData\Roaming\Typora\typora-user-images\image-20260312113218133.png)
+![image-20260312113218133]([https://github.com/Cendok/Cendok.github.io/tree/master/avatar1.jpeg])
 
 
 
 - ## 链接
+
 
 [我的站]([Cendok (算法工程师)](https://github.com/Cendok))

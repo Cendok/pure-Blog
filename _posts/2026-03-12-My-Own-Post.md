@@ -1,8 +1,8 @@
 ---
 layout: post
 title: My Own Post
+author: Cendok
 date: 2026-03-12 +0800
-last_modified_at: 2026-03-12 +0800
 tags: [Ownpost]
 toc:  true
 ---
@@ -33,6 +33,7 @@ import matplotlib
 
 
 [我的站]([Cendok (算法工程师)](https://github.com/Cendok))
+
 
 
 

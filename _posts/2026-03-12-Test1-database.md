@@ -7,17 +7,6 @@ tags: [test]
 toc:  true
 ---
 
-### Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![image](/avatar1.jpeg)  
-
-Align to the center by adding `class="align-center"`:
-
-
-[^fn-sample_footnote]: Handy! Now click the return link to go back.
-
 
 ## 数据库知识点
 
